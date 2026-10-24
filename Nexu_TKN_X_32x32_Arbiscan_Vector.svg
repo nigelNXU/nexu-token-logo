@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="35 35 292 215">
+<defs>
+ <linearGradient id="gold" x1="0" y1="1" x2=".85" y2="0"><stop stop-color="#754711"/><stop offset=".18" stop-color="#D6AB61"/><stop offset=".36" stop-color="#FFF0B9"/><stop offset=".52" stop-color="#B9812C"/><stop offset=".72" stop-color="#F9D889"/><stop offset="1" stop-color="#FFF2C5"/></linearGradient>
+ <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17191C"/><stop offset=".5" stop-color="#34302A"/><stop offset="1" stop-color="#08090B"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#9A6420"/><stop offset=".4" stop-color="#FFF4CB"/><stop offset=".6" stop-color="#D6AB61"/><stop offset="1" stop-color="#FFFBE9"/></linearGradient>
+ <clipPath id="shape"><path d="M51 71.5H114Q124 71.5 131 78.5L165.7 112.5 129 146.2Z M208.5 157L301.5 244.5H238Q228 244.5 222 238L175 192.5Z M40 244.5L242.5 46.5Q248.5 40.5 257 40.5H322L116 237Q108.5 244.5 98.5 244.5Z"/></clipPath>
+</defs>
+<!-- Three approved master-logo pieces; original silhouette preserved -->
+<g>
+ <path fill="url(#gold)" d="M51 71.5H114Q124 71.5 131 78.5L165.7 112.5 129 146.2Z"/>
+ <path fill="url(#gold)" d="M208.5 157L301.5 244.5H238Q228 244.5 222 238L175 192.5Z"/>
+ <path fill="url(#gold)" d="M40 244.5L242.5 46.5Q248.5 40.5 257 40.5H322L116 237Q108.5 244.5 98.5 244.5Z"/>
+ <g fill="none" stroke-linejoin="round">
+  <path stroke="#20170C" stroke-width="4" opacity=".9" d="M51 71.5H114Q124 71.5 131 78.5L165.7 112.5 129 146.2 M208.5 157L301.5 244.5H238Q228 244.5 222 238L175 192.5 M40 244.5L242.5 46.5Q248.5 40.5 257 40.5H322"/>
+  <path stroke="url(#edge)" stroke-width="1.8" d="M43 241L244 47Q250 42 257 42H319 M53 73H114Q124 73 130 80L163 112 M210 159L297 241H238Q229 241 223 235L177 191"/>
+ </g>
+ <g clip-path="url(#shape)">
+  <path d="M67 90H103L121 108H145 M96 119L112 134H129 M219 177L245 202H275 M211 190L231 211H250 M70 218L104 185H123L141 168 M135 210L158 187H176L193 170 M171 150L195 126H218L236 108 M223 75L246 53H272" fill="none" stroke="#17130E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M67 88H103L121 106H145 M96 117L112 132H129 M219 175L245 200H275 M211 188L231 209H250 M70 216L104 183H123L141 166 M135 208L158 185H176L193 168 M171 148L195 124H218L236 106 M223 73L246 51H272" fill="none" stroke="#F6D27B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#FFF0B6" stroke="#8D5D1C" stroke-width="1.2"><circle cx="103" cy="88" r="3.5"/><circle cx="145" cy="106" r="3.5"/><circle cx="112" cy="132" r="3.2"/><circle cx="245" cy="200" r="3.5"/><circle cx="250" cy="209" r="3"/><circle cx="123" cy="183" r="3.2"/><circle cx="176" cy="185" r="3.4"/><circle cx="218" cy="124" r="3.5"/><circle cx="246" cy="51" r="3"/></g>
+ </g>
+</g>
+</svg>
